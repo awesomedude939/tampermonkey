@@ -7,8 +7,8 @@
 // @match        https://x.synapse.to/
 // @icon         https://external-content.duckduckgo.com/ip3/x.synapse.to.ico
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/awesomedude939/tampermonkey/main/syn.js
-// @downloadURL  https://raw.githubusercontent.com/awesomedude939/tampermonkey/main/syn.js
+// @updateURL    https://raw.githubusercontent.com/awesomedude939/tampermonkey/main/syn.user.js
+// @downloadURL  https://raw.githubusercontent.com/awesomedude939/tampermonkey/main/syn.user.js
 // ==/UserScript==
 
 (function() {
